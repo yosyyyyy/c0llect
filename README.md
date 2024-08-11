@@ -1,6 +1,6 @@
 Playable URL: https://yosyyyyy.github.io/c0llect/
 
-Recommended: PC, Microsoft Edge, Fullscreen(1920x1080)
+Recommended: PC, Browser
 
 ![s](https://github.com/user-attachments/assets/f67b6de7-7b65-4e20-ae76-a5f621c93b67)
 
