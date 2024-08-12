@@ -5,7 +5,7 @@ Recommended: PC, Browser
 ![s](https://github.com/user-attachments/assets/f67b6de7-7b65-4e20-ae76-a5f621c93b67)
 
 # Description
-タイトル: c0llect
+タイトル: c0llect(コレクト)
 
 ジャンル: さめがめ系パズルゲーム
 
@@ -18,6 +18,8 @@ Recommended: PC, Browser
 ステージ15終了時点で、ファンを10,000,000人以上増やすことができれば、ゲームクリアです。
 
 遊び方の詳細については、ゲーム内のTutorialをご覧ください。
+
+なお、1回のプレイ時間の目安は、20～30分程度です。
 
 # References
 Icon: https://booth.pm/ja/items/2693901
