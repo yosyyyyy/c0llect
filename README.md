@@ -46,15 +46,15 @@ Icon: https://booth.pm/ja/items/2693901
 Audio/SE: https://maou.audio/
 
 Voice: 2024/08/13時点で全体公開されている以下の配信アーカイブより引用
-https://www.youtube.com/watch?v=ZJ8zJBjefyA
-https://www.youtube.com/watch?v=IYlN1ellaCU
-https://www.youtube.com/watch?v=GkswS0rAsNA
-https://www.youtube.com/watch?v=e3JBtoh9pOQ
-https://www.youtube.com/watch?v=MgP4rNeSq
-https://www.youtube.com/watch?v=hwuiAfQpKNQ
-https://www.youtube.com/watch?v=MvaMY_92T-c
-https://www.youtube.com/watch?v=JNmmnB4bP0M
-https://www.youtube.com/watch?v=CWCaIKiwU3U
-https://www.youtube.com/watch?v=9QUOxWaOr3k
+- https://www.youtube.com/watch?v=ZJ8zJBjefyA
+- https://www.youtube.com/watch?v=IYlN1ellaCU
+- https://www.youtube.com/watch?v=GkswS0rAsNA
+- https://www.youtube.com/watch?v=e3JBtoh9pOQ
+- https://www.youtube.com/watch?v=MgP4rNeSq
+- https://www.youtube.com/watch?v=hwuiAfQpKNQ
+- https://www.youtube.com/watch?v=MvaMY_92T-c
+- https://www.youtube.com/watch?v=JNmmnB4bP0M
+- https://www.youtube.com/watch?v=CWCaIKiwU3U
+- https://www.youtube.com/watch?v=9QUOxWaOr3k
 
 Font: https://fonts.google.com/noto/specimen/Noto+Sans+JP
